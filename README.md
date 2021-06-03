@@ -31,3 +31,6 @@ To recommend the correct location, ARGENTINE Ltd. has appointed us to lead a Dat
 
 Success Criteria:¶
 The success criteria of the project will be a good recommendation of borough/Neighborhood choice to XYZ Company Ltd based on Lack of such restaurants in that location and nearest suppliers of ingredients.
+
+
+Python Notebook: https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/63c90e80-0399-45f5-abb7-4599722ccca5/view?access_token=6f82f00c7b0353f725c2c32ca5ec6848a177c66a806c8a2ed19abe11bc6a7ea0
